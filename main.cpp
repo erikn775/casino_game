@@ -28,7 +28,8 @@ int main(){
         cin >> ready;
     }
     
-    cout << num1 << " " << num2 << " " << num3 << endl;
+    sleep(2);
+    cout << "///////// " << num1 << " " << num2 << " " << num3 << " /////////\n";
 
     return 0;
 }
